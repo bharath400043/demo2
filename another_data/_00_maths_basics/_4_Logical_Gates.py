@@ -1,0 +1,29 @@
+
+''''''
+'''
+
+Logical Gates:
+==================
+1 represents True
+0 represents False
+
+AND gate :
+-------------
+1 and 1  =>  1   True and True   => True
+1 and 0  =>  0   True and False  => False
+0 and 0  =>  0   False and False => False
+0 and 1  =>  0   False and True  => False
+
+OR gate :
+-----------
+1 or 1  =>  1   True or True   => True
+1 or 0  =>  1   True or False  => True
+0 or 0  =>  0   False or False => False
+0 or 1  =>  1   False or True  => True
+
+NOT gate:
+------------
+not 1 =>  0       not True  => False
+not 0 =>  1       not False => True
+
+'''
